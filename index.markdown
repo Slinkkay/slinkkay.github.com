@@ -1,8 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
-#Header Test
-
-* List 1
-* List 2
+Github Pages test
