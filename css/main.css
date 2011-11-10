@@ -1,0 +1,16 @@
+---
+title: main css
+---
+
+body {
+margin:50px;
+padding:0px;
+}
+
+#Content {
+	width:80em;
+	margin:0px auto; /* Right and left margin widths set to "auto" */
+	padding:15px;
+	border:1px solid #DDD;
+	background-color:#eee;
+	}
