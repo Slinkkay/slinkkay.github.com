@@ -7,7 +7,7 @@ layout: default
 
 ## Video Games/Computer
 * [XBox 360 Wired Controller](http://goo.gl/kWEYI)
-* [Battlefield 3](http://goo.gl/M3aKh)
+* [Battlefield][]
 * [Razer Tiamat 7.1](http://www.razerzone.com/tiamat/en)
 
 ## Around the House
@@ -21,3 +21,4 @@ layout: default
 * [Aperture Pint Glass](http://www.thinkgeek.com/interests/giftsforhim/e917/)
 * [Portal 2 Aperture Water Bottles (Both Editions)](http://goo.gl/aN9LI)
 
+[Battlefield]: http://goo.gl/M3aKh "Battlefield 3"
