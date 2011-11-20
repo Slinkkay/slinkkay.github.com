@@ -7,7 +7,7 @@ layout: default
 
 ## Video Games/Computer
 * [XBox 360 Wired Controller](http://goo.gl/kWEYI)
-* [Battlefield][]
+* [][Battlefield]
 * [Razer Tiamat 7.1](http://www.razerzone.com/tiamat/en)
 
 ## Around the House
