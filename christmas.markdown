@@ -24,7 +24,6 @@ All games PC version only
 ## Random
 * [Aperture Pint Glass](http://www.thinkgeek.com/interests/giftsforhim/e917/)
 * [Portal 2 Aperture Water Bottles (Both Editions)](http://goo.gl/aN9LI)
-* [Printer][]
 
 [Battlefield]: http://goo.gl/M3aKh "Battlefield 3"
 [Skyrim]: http://goo.gl/UOOTH "Skyrim"
