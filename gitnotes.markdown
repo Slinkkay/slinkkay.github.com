@@ -1,8 +1,7 @@
 ---
 title: Git Notes
+layout: default
 ---
-
-# Git Notes
 
 A small collection of commands and comments useful with Git.
 
