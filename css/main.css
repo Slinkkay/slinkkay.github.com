@@ -13,6 +13,7 @@ body {
 	background-color: #FFFFFF;
 	background-image: url(images/bg.png);
 	background-repeat: repeat-x;
+  text-align: center;
 	color: #666666;
 }
 #wrap #contents #sidebar img {
@@ -311,7 +312,7 @@ a {
 	border: 1px solid #CCCCCC;
 }
 a:visited {
-	color: #6E9DCD;
+	color: #4675A5;
 }
 a:hover {
 	color: #000000;
