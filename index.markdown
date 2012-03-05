@@ -10,5 +10,4 @@ layout: default
 
 {% endfor %}
 
-Github Pages test
 [Git Notes](gitnotes.html)
