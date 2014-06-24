@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rebuilding Munchkin Android
+categories: [MunchkinAndroid, coding]
 ---
 
 Recently I've been trying to find a project that I could dig into coding wise in an attempt to try out new designs. However, there really isn't much that I'm that passionate about making new in the app world. I think that comes with the fact that I've been making Android Apps professionally for a while now. The grind becomes part of the day. It stops being this thing that you look at new and exciting.
